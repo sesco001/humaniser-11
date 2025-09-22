@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const BACKEND_URL = "https://your-backend-url.com/api/humanise"; // Replace with your backend
+const BACKEND_URL = "https://humanbd.onrender.com"; // Replace with your backend
 
 export default function App() {
   const [inputText, setInputText] = useState("");
